@@ -1,2 +1,1 @@
-[﻿# AI-Integrated
-](https://ai-integrated-eta.vercel.app/)
+https://ai-integrated-eta.vercel.app
